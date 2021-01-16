@@ -1,6 +1,8 @@
 git init : iniciar el seguimiento
 git add: seguir un fichero en especufico
+git add . : con esto le hacemos seguimiento a todo mi espacio de trabajo
 git commit -m "Name": guardar un snapshow del codigo
+git commit -am "Name": Con esto ya no tengo hacer el paso intermedio de adicionar los archivos modificados para luego hacer el commit
 git status -s: para ver estatus
 git log --oneline: para ver un listado de todos los commit que tengo hechos
 git reset --hard "Serial Codigo": hace una restauracion del archivo indicado por el codigo serial indicado, NOTA: LO QUE AL RESTAURAR HASTA UN PUNTO CON ESTE COMANDO, PIERDO EL RESTO DE LOS COMMIT QUE HABIA YO HECHO, DEBE HABER OTRO COMANDO PARA RESTAURAR
