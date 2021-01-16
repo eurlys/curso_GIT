@@ -1,0 +1,5 @@
+git init : iniciar el seguimiento
+git add: seguir un fichero en especufico
+git commit -m "Name": guardar un snapshow del codigo
+git status -s: para ver estatus
+git log --online: para ver un listado de todos los commit que tengo hechos
