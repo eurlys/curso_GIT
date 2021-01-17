@@ -6,3 +6,5 @@ git commit -am "Name": Con esto ya no tengo hacer el paso intermedio de adiciona
 git status -s: para ver estatus
 git log --oneline: para ver un listado de todos los commit que tengo hechos
 git reset --hard "Serial Codigo": hace una restauracion del archivo indicado por el codigo serial indicado, NOTA: LO QUE AL RESTAURAR HASTA UN PUNTO CON ESTE COMANDO, PIERDO EL RESTO DE LOS COMMIT QUE HABIA YO HECHO, DEBE HABER OTRO COMANDO PARA RESTAURAR
+
+git pull : Para luego de editar y modificar un fichero por GitHub sincronizar mis repo con mis ficheros locales
